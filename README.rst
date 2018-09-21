@@ -1,4 +1,4 @@
 testrepository
 ========================
 
-これはテストです
+masterbranchで編集
