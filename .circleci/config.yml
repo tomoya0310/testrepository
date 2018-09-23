@@ -5,4 +5,4 @@ jobs:
       - image: debian:stretch
     steps:
       - checkout
-      - run: python test_calculations.py
+      - run: python3.6 test_calculations.py
